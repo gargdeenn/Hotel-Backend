@@ -1,0 +1,15 @@
+C:\Users\DaspN\Desktop\hotelNeruda2022\Datos\bin\release\net6.0\Datos.deps.json
+C:\Users\DaspN\Desktop\hotelNeruda2022\Datos\bin\release\net6.0\Datos.dll
+C:\Users\DaspN\Desktop\hotelNeruda2022\Datos\bin\release\net6.0\Datos.pdb
+C:\Users\DaspN\Desktop\hotelNeruda2022\Datos\bin\release\net6.0\Entity.dll
+C:\Users\DaspN\Desktop\hotelNeruda2022\Datos\bin\release\net6.0\Entity.pdb
+C:\Users\DaspN\Desktop\hotelNeruda2022\Datos\obj\release\net6.0\Datos.csproj.AssemblyReference.cache
+C:\Users\DaspN\Desktop\hotelNeruda2022\Datos\obj\release\net6.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DaspN\Desktop\hotelNeruda2022\Datos\obj\release\net6.0\Datos.AssemblyInfoInputs.cache
+C:\Users\DaspN\Desktop\hotelNeruda2022\Datos\obj\release\net6.0\Datos.AssemblyInfo.cs
+C:\Users\DaspN\Desktop\hotelNeruda2022\Datos\obj\release\net6.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\DaspN\Desktop\hotelNeruda2022\Datos\obj\release\net6.0\Datos.csproj.CopyComplete
+C:\Users\DaspN\Desktop\hotelNeruda2022\Datos\obj\release\net6.0\Datos.dll
+C:\Users\DaspN\Desktop\hotelNeruda2022\Datos\obj\release\net6.0\refint\Datos.dll
+C:\Users\DaspN\Desktop\hotelNeruda2022\Datos\obj\release\net6.0\Datos.pdb
+C:\Users\DaspN\Desktop\hotelNeruda2022\Datos\obj\release\net6.0\ref\Datos.dll
